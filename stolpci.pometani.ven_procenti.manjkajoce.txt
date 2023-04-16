@@ -1,0 +1,26 @@
+Pometanih stolpcev = 7%
+Pometanih vrstic 41%
+==
+oboje z mejo ce je manjkalo vec kot petina vrednosti
+==
+
+
+==
+koliko jih je manjkalo v stolpcu
+==
+Tarčna stena 0.3
+IVS 0.29
+ALT 0.78
+bilirubin (dir) 0.88
+Način TX 0.76
+urat 0.47
+LDL 0.2
+Fe 0.47
+EDV 0.35
+ESV 0.37
+L 0.24
+Hb 0.24
+feritin 0.42
+TRC 0.24
+RDW 0.24
+Komentar kontrole 0.24
