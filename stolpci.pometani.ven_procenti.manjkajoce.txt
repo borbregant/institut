@@ -1,5 +1,5 @@
-Pometanih stolpcev = 7%
-Pometanih vrstic 41%
+Pometane vrstice (v procentih) 0.07
+Pometani stolpci (v procentih) 0.41
 ==
 oboje z mejo ce je manjkalo vec kot petina vrednosti
 ==
